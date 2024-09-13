@@ -40,3 +40,5 @@ npx create-next-app@latest realtime-chat-app
 ```
 npm i class-varience-authority
 ```
+
+## Go and explore the app - https://next-js-realtime-chat-app.vercel.app/
